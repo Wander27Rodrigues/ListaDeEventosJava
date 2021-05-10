@@ -1,12 +1,12 @@
-package models;
+package com.eventosapp.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
-public class ControllerEvent {
-    @RequestMapping ("/casdastrarEvent")
+public class EventoController {
+    @RequestMapping ("/casdastrarEvento")
     public String form (){
-        return "event/formEvent";
+        return "evento/formEvento";
     }
 }

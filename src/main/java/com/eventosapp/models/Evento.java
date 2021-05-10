@@ -1,6 +1,6 @@
-package models;
+package com.eventosapp.models;
 
-public class Event {
+public class Evento {
     private String nome;
     private String local;
     private String data;

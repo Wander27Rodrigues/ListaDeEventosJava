@@ -1,4 +1,4 @@
-package com.example.ListEvent;
+package com.eventosapp.controllers;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
