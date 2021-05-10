@@ -1,6 +1,5 @@
 # ListaDeEventosJava
 
-# ListaDeEventos
 
 <h4 align="center"> 
 	🚧 🚀 Em construção...  🚧
