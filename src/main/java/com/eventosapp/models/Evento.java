@@ -6,6 +6,9 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.OneToMany;
+
+import antlr.collections.List;
 
 @Entity
 public class Evento implements Serializable{
@@ -22,7 +25,8 @@ public class Evento implements Serializable{
     private String data;
     private String horario;
     
-    
+    @OneToMany
+    private List convidados;
 
     public long getCodigo() {
 		return codigo;
