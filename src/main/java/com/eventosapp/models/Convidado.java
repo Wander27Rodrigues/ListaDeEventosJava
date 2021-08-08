@@ -21,10 +21,10 @@ public class Convidado {
 	public void setRg(String rg) {
 		this.rg = rg;
 	}
-	public String getNomeconvidado() {
+	public String getNomeConvidado() {
 		return nomeconvidado;
 	}
-	public void setNomeconvidado(String nomeconvidado) {
+	public void setNomeConvidado(String nomeconvidado) {
 		this.nomeconvidado = nomeconvidado;
 	}
 	

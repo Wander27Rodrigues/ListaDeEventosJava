@@ -9,8 +9,8 @@
 
 - [x] Estrutura do Projeto
 - [x] Page Form
-- [ ] Base SQL
-- [ ] Page Login
+- [x] Base SQL
+- [x] Page Detalhes Convidados
 
 ## 🚀 Tecnologias
 
